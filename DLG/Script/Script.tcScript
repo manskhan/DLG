@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="StepDefinitions" key="{0421EE60-4C58-4538-AC72-5E6D20C93961}" path="StepDefinitions.js" />
+	</children>
+</Root>

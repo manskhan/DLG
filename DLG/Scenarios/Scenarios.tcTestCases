@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scenarios>
+	<Folder Name="DLG" Description="AS a bank account holder I WANT to login to my bank account SO THAT I can transfer money" HipTestID="1517724">
+		<Feature Path="DLG\Formulation with CucumberStudio.feature" HipTestID="1517725" />
+		<Feature Path="DLG\Logging in website.feature" HipTestID="1517735" />
+		<Feature Path="DLG\Green flag test.feature" HipTestID="1517830" />
+	</Folder>
+</Scenarios>

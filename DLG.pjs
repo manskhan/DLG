@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{AF07AF42-C0EF-491A-A0AF-3B6EAAE6E972}">
+	<children>
+		<child name="DLG" key="{8457FD25-B585-41C7-A39A-5E8AC6ADFA13}" path="DLG\DLG.mds" />
+	</children>
+	<testItems key="{BA47A98C-D767-4932-92DB-CB38896F892B}">
+		<children>
+			<testItem key="{8457FD25-B585-41C7-A39A-5E8AC6ADFA13}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{2AA9AC7A-3E4F-4024-B6D7-FE4F20FAA296}" />
+	<analysis key="{F0ADAA55-1062-4243-A8DD-A06618F5F1E6}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}">
+		<CrossBrowserTesting Enable="False" />
+	</extender>
+</Root>

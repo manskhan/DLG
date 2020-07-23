@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{2B292D9D-8A31-4498-9957-991CDACB6DFC}">
+				<TypeInfo Item0="{61E261BA-FDDA-4376-BBAA-45D990DF28C8}" />
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="browser" Key="{58C56CE7-0396-4902-9DDC-70590706A180}">
+						<TypeInfo Item0="{E28519EE-1C6D-4B81-A36D-B7D708487B99}" />
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="pageQaInterviewTestDlgDigital" Key="{E602D4CD-DD68-412D-93E7-62CCF513C442}">
+								<Image FileName="-1554503778" Left="8" Top="112" Right="1912" Bottom="1032" />
+								<TypeInfo Item0="{D4CA1266-B524-4406-A6F4-E08456E33516}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://login.dev.qa-experience.com/login" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="panel" Key="{909D0900-40EC-4751-89FA-497F4FCB6B90}" ExtendedFind="True">
+										<Image FileName="-1554503778" Left="640" Top="208" Right="1280" Bottom="692" />
+										<TypeInfo Item0="{B230C84F-9BE2-45D8-A8DD-CDD6B4D7A827}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Panel" />
+											</Property>
+											<Property Name="contentText">
+												<Value Value="55007300650072006E0061006D0065000A00500061007300730077006F00720064000A004C006F00670069006E00" Type="7" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="form" Key="{68CE8EEA-6E6C-4C11-8B3B-1CCFEB2F6CC4}" ExtendedFind="True">
+										<Image FileName="-1107599429" Left="736" Top="304" Right="1184" Bottom="596" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Form" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="textboxLoginusername" Key="{B9DBD939-692F-4F33-92B6-CE5951B76FA1}" ExtendedFind="True">
+												<Image FileName="-1107599429" Left="736" Top="330" Right="1184" Bottom="378" />
+												<TypeInfo Item0="{E708C1B8-196F-4860-B061-391A61A98604}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Textbox" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="loginUsername" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="passwordboxLoginpassword" Key="{F955A6D0-9674-4F77-9639-D92F6DB680C3}" ExtendedFind="True">
+												<Image FileName="-168018244" Left="736" Top="452" Right="1184" Bottom="500" />
+												<TypeInfo Item0="{E708C1B8-196F-4860-B061-391A61A98604}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="PasswordBox" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="loginPassword" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="buttonLogin" Key="{7C4336FF-7B5C-410F-9565-9BF85BE8009E}" ExtendedFind="True">
+												<Image FileName="1010068312" Left="736" Top="548" Right="1184" Bottom="596" />
+												<TypeInfo Item0="{AA3B5662-5799-4FA0-B4BB-27AA09E99526}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Button" />
+													</Property>
+													<Property Name="contentText">
+														<Value Value="Login" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="BrowserWindow" Key="{98E2F4AB-3711-40DF-B80D-C4B41B3FC9C5}">
+								<Image FileName="604811471" Left="-8" Top="-8" Right="1928" Bottom="1048" />
+								<TypeInfo Item0="{AB0BB16A-37CC-42F9-8BDF-55B0D0144114}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="0" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="pageQaInterviewTestDlgDigital2" Key="{715B71F2-A84C-4B31-A6AC-FCDD643AAC31}">
+								<Image FileName="-74171621" Left="8" Top="112" Right="1912" Bottom="1032" />
+								<TypeInfo Item0="{DFCBA9BB-625B-40D4-AC99-9229BE46E840}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://login.dev.qa-experience.com/logged-in" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="explorer" Key="{6142E2ED-86BE-443F-8BAF-397B89766706}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="explorer" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndShell_TrayWnd" Key="{1877AB8A-549C-4B57-BE08-B439D96EC070}">
+								<Image FileName="1769009526" Left="0" Top="0" Right="1920" Bottom="40" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Shell_TrayWnd" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Start" Key="{AE745594-B83B-414B-9ED1-73BFC8C69C45}">
+										<Image FileName="1769009526" Left="0" Top="0" Right="48" Bottom="40" />
+										<TypeInfo Item0="{3A76FA26-B9C3-457F-9EFC-049B6EECE2F7}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Start" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Start" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="browser" Owner="{58C56CE7-0396-4902-9DDC-70590706A180}">
+			<Child Name="pageQaInterviewTestDlgDigital" Owner="{E602D4CD-DD68-412D-93E7-62CCF513C442}">
+				<Child Name="panel" Owner="{909D0900-40EC-4751-89FA-497F4FCB6B90}" />
+				<Child Name="form" Owner="{68CE8EEA-6E6C-4C11-8B3B-1CCFEB2F6CC4}">
+					<Child Name="textboxLoginusername" Owner="{B9DBD939-692F-4F33-92B6-CE5951B76FA1}" />
+					<Child Name="passwordboxLoginpassword" Owner="{F955A6D0-9674-4F77-9639-D92F6DB680C3}" />
+					<Child Name="buttonLogin" Owner="{7C4336FF-7B5C-410F-9565-9BF85BE8009E}" />
+				</Child>
+			</Child>
+			<Child Name="BrowserWindow" Owner="{98E2F4AB-3711-40DF-B80D-C4B41B3FC9C5}" />
+			<Child Name="pageQaInterviewTestDlgDigital2" Owner="{715B71F2-A84C-4B31-A6AC-FCDD643AAC31}" />
+		</Child>
+		<Child Name="explorer" Owner="{6142E2ED-86BE-443F-8BAF-397B89766706}">
+			<Child Name="wndShell_TrayWnd" Owner="{1877AB8A-549C-4B57-BE08-B439D96EC070}">
+				<Child Name="Start" Owner="{AE745594-B83B-414B-9ED1-73BFC8C69C45}" />
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>
